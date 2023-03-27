@@ -1,0 +1,162 @@
+* {
+    background-color: #85ed85;
+}
+/*Text*/
+h1,
+h2 {
+    font-family: 'Delicious Handrawn';
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 42px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 37px;
+}
+
+p {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.header {
+    margin-left: 100px;
+}
+
+/*Colors*/
+.colors {
+    border: solid;
+    border-radius: 20px;
+    margin: 10px 100px;
+}
+
+.colors h2 {
+    margin-left: 20px;
+}
+
+#blue {
+    display: inline-block;
+    border-radius: 20px;
+    padding: 50px 100px;
+    margin-left: 23px;
+    margin-bottom: 2opx;
+    background-color: #0021f7;
+}
+
+#blue p {
+    color: #FFF;
+    background-color: transparent;
+}
+
+#red {
+    display: inline-block;
+    border-radius: 20px;
+    padding: 50px 100px;
+    margin-bottom: 20px;
+    background-color: #fa1302;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+#red p {
+    background-color: transparent;
+}
+
+#black {
+    display: inline-block;
+    border-radius: 20px;
+    padding: 50px 115px;
+    margin-bottom: 20px;
+    background-color: #000;
+}
+
+#black p {
+    color: #FFF;
+    background-color: transparent;
+}
+
+/*Fonts*/
+.fonts {
+    border: solid;
+    border-radius: 20px;
+    margin: 10px 100px;
+}
+
+.fonts h2 {
+    margin-left: 40px;
+}
+
+#title {
+    font-size: 22px;
+}
+
+.poppins {
+    font-family: Poppins;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.roboto {
+    font-family: Roboto;
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.dh {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.dh #title {
+    font-size: 25px;
+    display: inline-block;
+    width: 90%;
+    margin-left: 40px;
+    margin-bottom: 1px;
+}
+
+.dh p{
+    font-family: 'Delicious Handrawn';
+    display: inline-block;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.dh #normal {
+    font-size: 22px;
+}
+
+#normal {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#light {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+#italic {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 18px;
+}
+
+/*Text Style*/
+.texts {
+    border: solid;
+    border-radius: 20px;
+    margin: 10px 100px;
+}
+
+.texts ul {
+    margin-left: 20px;
+}
+
+#head {
+    margin-left: 20px;
+}
